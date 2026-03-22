@@ -29,8 +29,8 @@ Use the `system-prompts/` folder. Each subfolder contains:
 | hco-design-system | H+Co visual language reference |
 | hco-pdf | H+Co styled HTML documents / PDFs |
 | slide-designer | Design slides as HTML, screenshot, evaluate, iterate |
-| slide-prompter | Analyse slides and write image generation prompts |
-| analyse-deck | Structured breakdown and review of presentation decks |
+| slide-prompter ⭐ | Analyse slides and write image generation prompts |
+| analyse-deck ⭐ | Structured breakdown and review of presentation decks |
 
 ### Image Generation
 
@@ -41,17 +41,17 @@ Use the `system-prompts/` folder. Each subfolder contains:
 | img-compose | Photorealistic visual vocabulary reference library |
 | img-analyse | Reverse-engineer prompts from images (Style DNA) |
 | campaign-image-prompts | Cohesive image prompt suites for campaigns |
-| nano-banana-pro | Production-ready Nano Banana Pro image prompts |
+| nano-banana-pro ⭐ | Production-ready Nano Banana Pro image prompts |
 | social-grid | Nano Banana Pro prompts for social media phone grids |
 
 ### Video & Storyboarding
 
 | Skill | What it does |
 |-------|-------------|
-| cinema-mode | Rewrite prompts into cinematic film still style |
-| kling-prompt-optimiser | Optimise prompts for Kling 3.0 video generation |
-| script-to-storyboard | Extract 9 key beats from a script into a storyboard |
-| storyboard-to-video | Process storyboard images into 4K cinematic frames |
+| cinema-mode ⭐ | Rewrite prompts into cinematic film still style |
+| kling-prompt-optimiser ⭐ | Optimise prompts for Kling 3.0 video generation |
+| script-to-storyboard ⭐ | Extract 9 key beats from a script into a storyboard |
+| storyboard-to-video ⭐ | Process storyboard images into 4K cinematic frames |
 
 ### Research & Utilities
 
