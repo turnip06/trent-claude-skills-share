@@ -20,43 +20,43 @@ Use the `system-prompts/` folder. Each subfolder contains:
 
 ### Presentations & Design
 
-| Skill             | What it does                                          |
-| ----------------- | ----------------------------------------------------- |
-| create-hco-ppt    | H+Co branded PowerPoint decks from markdown           |
-| create-hco-slides | H+Co branded Google Slides from markdown              |
-| hco-html-deck     | H+Co HTML presentations                               |
-| hco-pptx-deck     | PowerPoint matching H+Co brand template               |
-| hco-design-system | H+Co visual language reference                        |
-| hco-pdf           | H+Co styled HTML documents / PDFs                     |
-| slide-designer    | Design slides as HTML, screenshot, evaluate, iterate  |
-| slide-prompter ⭐    | Analyse slides and write image generation prompts     |
-| analyse-deck ⭐      | Structured breakdown and review of presentation decks |
+| Skill | What it does |
+| --- | --- |
+| [create-hco-ppt](create-hco-ppt/) | H+Co branded PowerPoint decks from markdown |
+| [create-hco-slides](create-hco-slides/) | H+Co branded Google Slides from markdown |
+| [hco-html-deck](hco-html-deck/) | H+Co HTML presentations |
+| [hco-pptx-deck](hco-pptx-deck/) | PowerPoint matching H+Co brand template |
+| [hco-design-system](hco-design-system/) | H+Co visual language reference |
+| [hco-pdf](hco-pdf/) | H+Co styled HTML documents / PDFs |
+| [slide-designer](slide-designer/) | Design slides as HTML, screenshot, evaluate, iterate |
+| [slide-prompter](slide-prompter/) ⭐ | Analyse slides and write image generation prompts |
+| [analyse-deck](analyse-deck/) ⭐ | Structured breakdown and review of presentation decks |
 
 ### Image Generation
 
-| Skill                  | What it does                                         |
-| ---------------------- | ---------------------------------------------------- |
-| img-generate           | Three distinct image prompt variations per concept   |
-| img-edit               | Edit or combine images into compositions             |
-| img-compose            | Photorealistic visual vocabulary reference library   |
-| img-analyse            | Reverse-engineer prompts from images (Style DNA)     |
-| campaign-image-prompts | Cohesive image prompt suites for campaigns           |
-| nano-banana-pro ⭐        | Production-ready Nano Banana Pro image prompts       |
-| social-grid            | Nano Banana Pro prompts for social media phone grids |
+| Skill | What it does |
+| --- | --- |
+| [img-generate](img-generate/) | Three distinct image prompt variations per concept |
+| [img-edit](img-edit/) | Edit or combine images into compositions |
+| [img-compose](img-compose/) | Photorealistic visual vocabulary reference library |
+| [img-analyse](img-analyse/) | Reverse-engineer prompts from images (Style DNA) |
+| [campaign-image-prompts](campaign-image-prompts/) | Cohesive image prompt suites for campaigns |
+| [nano-banana-pro](nano-banana-pro/) ⭐ | Production-ready Nano Banana Pro image prompts |
+| [social-grid](social-grid/) | Nano Banana Pro prompts for social media phone grids |
 
 ### Video & Storyboarding
 
-| Skill                  | What it does                                        |
-| ---------------------- | --------------------------------------------------- |
-| cinema-mode ⭐            | Rewrite prompts into cinematic film still style     |
-| kling-prompt-optimiser ⭐ | Optimise prompts for Kling 3.0 video generation     |
-| script-to-storyboard ⭐   | Extract 9 key beats from a script into a storyboard |
-| storyboard-to-video ⭐    | Process storyboard images into 4K cinematic frames  |
+| Skill | What it does |
+| --- | --- |
+| [cinema-mode](cinema-mode/) ⭐ | Rewrite prompts into cinematic film still style |
+| [kling-prompt-optimiser](kling-prompt-optimiser/) ⭐ | Optimise prompts for Kling 3.0 video generation |
+| [script-to-storyboard](script-to-storyboard/) ⭐ | Extract 9 key beats from a script into a storyboard |
+| [storyboard-to-video](storyboard-to-video/) ⭐ | Process storyboard images into 4K cinematic frames |
 
 ### Research & Utilities
 
-| Skill              | What it does                                           |
-| ------------------ | ------------------------------------------------------ |
-| 30-day-search      | Deep research on latest AI tools and techniques        |
-| clean-doc          | Apply clean, unbranded design to documents             |
-| youtube-summarizer | YouTube transcript extraction and actionable summaries |
+| Skill | What it does |
+| --- | --- |
+| [30-day-search](30-day-search/) | Deep research on latest AI tools and techniques |
+| [clean-doc](clean-doc/) | Apply clean, unbranded design to documents |
+| [youtube-summarizer](youtube-summarizer/) | YouTube transcript extraction and actionable summaries |
